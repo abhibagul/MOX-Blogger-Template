@@ -1,6 +1,9 @@
 # MOX-Blogger-Template
 MOX is one of the most simple and powerful magazine template for blogger.It is packed with various customized widgets and let's you customized the theme color yourself! Now you can color your theme as you need it! As you want it!.
 
+
+<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+
 <h2>Documentation</h2>
 <div class="entry-content">
 
